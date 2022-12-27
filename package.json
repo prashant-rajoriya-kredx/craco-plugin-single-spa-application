@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hasanayan/craco-plugin-single-spa-application.git"
+    "url": "git+https://github.com/prashant-rajoriya-kredx/craco-plugin-single-spa-application-kredx.git"
   },
   "keywords": [
     "single-spa",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hasanayan/craco-plugin-single-spa-application/issues"
+    "url": "https://github.com/prashant-rajoriya-kredx/craco-plugin-single-spa-application-kredx/issues"
   },
-  "homepage": "https://github.com/hasanayan/craco-plugin-single-spa-application#readme",
+  "homepage": "https://github.com/prashant-rajoriya-kredx/craco-plugin-single-spa-application-kredx#readme",
   "dependencies": {
     "systemjs-webpack-interop": "^2.3.7"
   },
