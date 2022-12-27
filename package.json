@@ -1,5 +1,5 @@
 {
-  "name": "craco-plugin-single-spa-application",
+  "name": "craco-plugin-single-spa-application-kredx",
   "version": "2.0.1",
   "description": "Convert your CRA project into a single-spa application without ejecting or losing update support of react-scripts",
   "main": "src/index.js",
